@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Notionic',
   author: 'YLEM',
   email: 'hi@ylem.me',
-  link: 'https://ylem.me',
+  link: 'https://blog.ylem.me','https://www.ylem.me','https://ylem.me'
   newsletter: 'YLEM Weekly',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
