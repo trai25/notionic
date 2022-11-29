@@ -23,7 +23,6 @@ const BLOG = {
   socialLink: {
     twitter: 'https://twitter.com/izuolan',
     github: 'https://github.com/izuolan',
-    telegram: 'https://t.me/zuolan'
   },
   seo: {
     keywords: ['Notionic', 'Zuolan', 'Blog'],
